@@ -1,0 +1,9 @@
+# config file
+application.yml
+
+# binary file
+out
+
+# IDE related files
+.idea
+.vscode

@@ -1,0 +1,13 @@
+APP_NAME: "sample-app"
+APP_PORT: "8080"
+LOG_LEVEL: "debug"
+LOG_FORMAT: "json"
+
+DB_NAME: "sample-app-db"
+DB_HOSTNAME: "localhost"
+DB_USERNAME: "postgres"
+DB_PASSWORD: "supersecretpassword"
+DB_PORT: "5432"
+DB_POOL: 2
+DB_READ_TIMEOUT_MS: 5000
+DB_WRITE_TIMEOUT_MS: 5000
